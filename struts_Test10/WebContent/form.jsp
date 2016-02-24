@@ -20,7 +20,7 @@
 			    <input type="text" name="empVO.sal" /><p>   
 				<input type="submit" />
 		</form><BR>	</LI> --%>
-		
+		 
 		
 		<LI><font color="blue"><b>Struts2的表單UI標籤</b></font>
 		
